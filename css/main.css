@@ -20,6 +20,11 @@ body{
     line-height: 26px;
 }
 
+.container-fluid{
+    position: sticky;
+    color:blue;
+}
+
 .firstPage {
     width: 100%;
     height: 100vh;
