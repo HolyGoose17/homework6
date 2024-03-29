@@ -25,6 +25,11 @@ body{
     color:blue;
 }
 
+.card{
+    background-color: yellow;
+    padding: 5px;
+}
+
 .firstPage {
     width: 100%;
     height: 100vh;
